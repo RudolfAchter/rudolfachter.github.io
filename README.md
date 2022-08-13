@@ -1,3 +1,9 @@
+---
+layout: page
+title: "rudolfachter.github.io"
+#permalink: /URL-PATH/
+---
+
 # rudolfachter.github.io
 
 - [Chia NFT Based Multi User Dugeon - Chiania](chiania/public/)
