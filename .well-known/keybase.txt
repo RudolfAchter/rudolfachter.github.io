@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/rudolfachter
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://rudolfachter.github.io
+  * I am rudolfachter (https://keybase.io/rudolfachter) on keybase.
+  * I have a public key ASAsWVo7PsENU-NpiBNHmBsgLUJScJ5PT-2UopkhmH_RRQo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120abdc9ddf65460ca362d2e2e2bc3ac9bf70cf45d8c532ab1c26538c441ace265d0a",
+      "host": "keybase.io",
+      "kid": "01202c595a3b3ec10d53e369881347981b202d4252709e4f4fed94a29921987fd1450a",
+      "uid": "8a0627531eecee79470118d0536ba219",
+      "username": "rudolfachter"
+    },
+    "merkle_root": {
+      "ctime": 1660386676,
+      "hash": "cf599deaeaa025d1e8aef28329897a53e00838a58696cf25623b55fff97979282f3d04d562e144173becd64661a6be2f57c97b30e67d574047a3639ba039b502",
+      "hash_meta": "21fbdaa4501fec98a1fc6aa61ebd0cd2cb1176a16ad3482f1aabaf525c077841",
+      "seqno": 23015749
+    },
+    "service": {
+      "entropy": "nK/BT9pb3D2sftCKNLXK5ABL",
+      "hostname": "rudolfachter.github.io",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "6.0.2"
+  },
+  "ctime": 1660386795,
+  "expire_in": 504576000,
+  "prev": "e49d1bfa7d261608ba74cf9e1ff45c9e8745968acd5ef05e3c986107e5c09813",
+  "seqno": 32,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgLFlaOz7BDVPjaYgTR5gbIC1CUnCeT0/tlKKZIZh/0UUKp3BheWxvYWTESpcCIMQg5J0b+n0mFgi6dM+eH/RcnodFlorNXvBePJhhB+XAmBPEIOsOrbTl/7bZS9xwbFn2QuAfztEcWveOBpyLL5V38LhZAgHCo3NpZ8RA3iEpH8l6Wxd8lOPF682LXWcG7lO58kGfeS7UmcTaJzuoWO2vux8h97JTUdj8uJb6tcA78ry7xgsZFU89HkmpCKhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIGMSp9sg0s0EbfG539V6Ve/WVp+b9+p2W+oZXNRC1q2Qo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/rudolfachter
+
+==================================================================
